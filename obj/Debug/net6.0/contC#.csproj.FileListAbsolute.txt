@@ -1,0 +1,15 @@
+C:\Users\Talento X Esforço\contC#\bin\Debug\net6.0\contC#.exe
+C:\Users\Talento X Esforço\contC#\bin\Debug\net6.0\contC#.deps.json
+C:\Users\Talento X Esforço\contC#\bin\Debug\net6.0\contC#.runtimeconfig.json
+C:\Users\Talento X Esforço\contC#\bin\Debug\net6.0\contC#.dll
+C:\Users\Talento X Esforço\contC#\bin\Debug\net6.0\contC#.pdb
+C:\Users\Talento X Esforço\contC#\obj\Debug\net6.0\contC#.csproj.AssemblyReference.cache
+C:\Users\Talento X Esforço\contC#\obj\Debug\net6.0\contC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talento X Esforço\contC#\obj\Debug\net6.0\contC#.AssemblyInfoInputs.cache
+C:\Users\Talento X Esforço\contC#\obj\Debug\net6.0\contC#.AssemblyInfo.cs
+C:\Users\Talento X Esforço\contC#\obj\Debug\net6.0\contC#.csproj.CoreCompileInputs.cache
+C:\Users\Talento X Esforço\contC#\obj\Debug\net6.0\contC#.dll
+C:\Users\Talento X Esforço\contC#\obj\Debug\net6.0\refint\contC#.dll
+C:\Users\Talento X Esforço\contC#\obj\Debug\net6.0\contC#.pdb
+C:\Users\Talento X Esforço\contC#\obj\Debug\net6.0\contC#.genruntimeconfig.cache
+C:\Users\Talento X Esforço\contC#\obj\Debug\net6.0\ref\contC#.dll
